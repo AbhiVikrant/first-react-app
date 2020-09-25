@@ -1,0 +1,15 @@
+
+.app{
+  border: solid #001100;
+  margin: 5px;
+   background: green;
+   text-transform: uppercase;
+}
+#hello{
+margin: auto;
+  text-decoration: solid;
+  text-align: center;
+  padding: 10px;
+  font-style: italic;
+
+}
