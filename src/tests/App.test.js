@@ -9,6 +9,6 @@ test("renders learn react link", () => {
 });
 test("renders abhishek ", () => {
   const { getAllByText } = render(<App />);
-  const linkElement = getAllByText(/abhishek/i);
+  const linkElement = getAllByText(/hello/i);
   expect(linkElement.length).toBe(6);
 });
